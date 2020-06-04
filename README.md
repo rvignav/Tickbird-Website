@@ -3,4 +3,6 @@
 # Tickbird-Website
 Landing site for the Tickbird app.
 
+App Store URL: https://apps.apple.com/us/app/tickbird-co/id1508006830?ls=1
+
 App Repository: https://github.com/rvignav/tickbird
